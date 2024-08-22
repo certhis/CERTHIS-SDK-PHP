@@ -14,7 +14,7 @@ The Certhis PHP SDK allows you to easily interact with the Certhis API. This SDK
 To use the Certhis SDK in your project, you'll need to install it via Composer. If you don't have Composer installed, you can download it from [getcomposer.org](https://getcomposer.org).
 
 ```bash
-composer require certhis/sdk"
+composer require "certhis/sdk"
 ```
 
 ### 1. `Web3Helper::__construct($privateKey)`
